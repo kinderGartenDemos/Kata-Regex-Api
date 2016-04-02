@@ -1,5 +1,5 @@
 inspired by laracasts
-### todo:
+## todo:
 - finish api
 - add api document
 - add meaningful tests
