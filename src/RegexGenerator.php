@@ -1,7 +1,5 @@
 <?php
 
-namespace App;
-
 class RegexGenerator {
 
 	protected $regexExpression = "";

@@ -1,7 +1,5 @@
 <?php
 
-use App\RegexGenerator as RegexGenerator;
-
 class RegexGeneratorTest extends PHPUnit_Framework_TestCase {
 
 	protected $generator;
